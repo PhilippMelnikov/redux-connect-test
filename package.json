@@ -13,7 +13,7 @@
     "cookie-session": "^1.4.0",
     "cors": "^2.8.5",
     "es6-promise": "^4.2.8",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "isomorphic-fetch": "^2.2.1",
     "less": "^3.11.0",
     "md5-file": "^4.0.0",
